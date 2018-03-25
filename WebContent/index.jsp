@@ -12,7 +12,7 @@
 <a href="register.jsp" class="btn btn-danger">REGISTER</a>
 </div>
 <div id="kav">
-<h1>FASHIONMODE.com</h1>
+<h1>FASHIONMODESS.com</h1>
 </div>
 <div id="yas">
 <form action="login" method="post">
