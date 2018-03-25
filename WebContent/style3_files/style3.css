@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+   #yashas{
+     font-size: 30px;
+     font-style: italic;
+     color: crimson;
+      padding-top: 35px;
+     margin:0 auto;
+     padding-left: 25px;
+   
+   }
+   
+   #appi
+   {
+     font-size: 50px;
+     font-style:italic;
+     color:chocolate;
+     padding-left:20px;
+     
+   }
+#kavya input
+{
+  border: solid cadetblue;
+   height:40px;
+   width:300px;
+   color: black;
+   
+   
+}
+#kavya{
+   padding-left:350px;
+   padding-top: 40px;
+   border: solid blueviolet;
+padding-bottom: 70px;   
+  
+   
+}
+
+#rek{
+   font-size: 60px;
+   color: blue;
+}
+
+
+#row1{
+   padding: 20px;
+   
+}
+
+   

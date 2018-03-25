@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+#kav{
+  font-size: 40px;
+  padding-left: 100px;
+  color: red;
+}
+
+#yas{
+  
+  
+  font-size: 50px;
+  padding-left: 40px;
+  color:yellow
+}
+
+body
+{
+background-image: url("images/y2.jpg");
+  background-size: cover;
+}
+ #r1{
+  padding-top: 20px;
+  padding-left: 850px;
+font-size: 20px;
+}

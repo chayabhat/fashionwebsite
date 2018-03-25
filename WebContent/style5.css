@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.k1
+{
+  padding-left:30px;
+  padding-top:60px;
+}
+#k2{
+  padding-left: 200px;
+  font-size: 30px;
+  font-style: italic;
+  color: firebrick;
+  
+}
+body{
+  width: 700px;
+  height: 570px;
+  border: solid;
+  
+}
+#h1{
+  font-size: 15px
+}
